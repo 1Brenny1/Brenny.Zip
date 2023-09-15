@@ -9,7 +9,7 @@ header p {
     margin: 0 0 -20px 0;
     font-size: small;
     text-align: center;
-    transform: translateY(-60%);
+    transform: translateY(-50%);
 }
 header div {
     padding-top: 5px;
